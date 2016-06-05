@@ -1,5 +1,5 @@
 # Fly
-Fly is physics-based 2d-space game experiment.
+Fly is a physics-based 2d-space game experiment.
 
 ## Technology
 Language: C#
