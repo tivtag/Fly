@@ -1,11 +1,15 @@
 # Fly
-Fly is phyics-based 2d-space game experiment.
+Fly is physics-based 2d-space game experiment.
 
 ## Technology
 Language: C#
+
 Graphics: Microsoft XNA
+
 Physics: Farseer Phyics
+
 Game Framework: Atom
+
 
 ## Requirements
 The game requires you to have a graphics card/integrated graphics that supports atleast pixel shader 2.0.
