@@ -21,7 +21,7 @@ Game Download: http://paul.ennemoser.com/files/FlyGame.zip
 Microsoft .NET Framework 4.6.1: https://www.microsoft.com/en-us/download/details.aspx?id=49981
 
 ## Controls
-# Editor
+### Editor
 Esc             .. Exit
 
 W/A/S/D         .. Move view
@@ -45,7 +45,7 @@ Left+Right hold .. Scale selected object
 F10             .. Switch to game mode
 
 
-# Game
+### Game
 Esc     .. Exit
 
 A/D/Q/E .. Rotate ship
