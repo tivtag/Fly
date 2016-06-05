@@ -7,3 +7,4 @@ SourceAnalysis.Cache
 .noReferenceAssembly
 .cachefile
 .Contracts.dll
+.vs
