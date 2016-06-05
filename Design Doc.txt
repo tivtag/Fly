@@ -1,0 +1,8 @@
+Money Income
+---------------
+
+1. Destroy Asteroids near Cities
++10$ each
+
+2. Active Orbital Mining Station
++100$ per 5 ticks

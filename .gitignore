@@ -1,0 +1,9 @@
+Binaries
+CodeContracts
+bin
+obj
+StyleCop.Cache
+SourceAnalysis.Cache
+.noReferenceAssembly
+.cachefile
+.Contracts.dll
