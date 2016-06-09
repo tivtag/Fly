@@ -11,22 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fly.Library", "Fly.Library\
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
-		Release|Any CPU = Release|Any CPU
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DDF102BF-9448-4355-8DA4-ED65DD859614}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{DDF102BF-9448-4355-8DA4-ED65DD859614}.Debug|x86.ActiveCfg = Debug|x86
 		{DDF102BF-9448-4355-8DA4-ED65DD859614}.Debug|x86.Build.0 = Debug|x86
-		{DDF102BF-9448-4355-8DA4-ED65DD859614}.Release|Any CPU.ActiveCfg = Release|x86
 		{DDF102BF-9448-4355-8DA4-ED65DD859614}.Release|x86.ActiveCfg = Release|x86
 		{DDF102BF-9448-4355-8DA4-ED65DD859614}.Release|x86.Build.0 = Release|x86
-		{DC2424E1-ECA6-4027-A8FD-1C5DA027A662}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{DC2424E1-ECA6-4027-A8FD-1C5DA027A662}.Debug|x86.ActiveCfg = Debug|x86
 		{DC2424E1-ECA6-4027-A8FD-1C5DA027A662}.Debug|x86.Build.0 = Debug|x86
-		{DC2424E1-ECA6-4027-A8FD-1C5DA027A662}.Release|Any CPU.ActiveCfg = Release|x86
 		{DC2424E1-ECA6-4027-A8FD-1C5DA027A662}.Release|x86.ActiveCfg = Release|x86
 		{DC2424E1-ECA6-4027-A8FD-1C5DA027A662}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
